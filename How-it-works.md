@@ -14,3 +14,6 @@ The circuitry for blowing off the candles is attached with Intel Genuino 101 boa
 
 ## 4. Development
 The vibrations generated inside the mic sensor by blowing air produces a numerical value - which will be captured to imitate this action. Few lines of code pushed to Intel Genuino 101 controls the LEDs, when the value from the sensor exceeds a threshold value.
+
+## 5. Working Demo
+The working demo of this project can be viewed [here](http://bit.ly/101-LED-Candles).
