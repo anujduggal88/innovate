@@ -4,6 +4,8 @@ This repository consists of innovations made out of maker/developer experiences
 ## Project Series
 This repository is created to offer project series to get statred with innovating using technology. It has (almost) no dependencies and is designed for makers/developers from Beginner to Intermediate level.
 
+New projects can be found under branches of this repository.
+
 ## 1. Setup
 You can setup these projects in your local machine by cloning this repository or downloading zip file.
 
